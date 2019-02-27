@@ -1,0 +1,51 @@
+html {
+    background: red;
+
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background: red;
+      
+    background-size: 100%;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Calligraphy", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+    text-align: justify;
+
+
+}
+ h2, h4, h5, h6 {
+    color: black;
+    font-weight: 500;
+    line-height: 2.5;
+}
+
+h2 {
+    margin-top: 1.3em;
+
+}
+
+img {
+  
+    background: black;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
